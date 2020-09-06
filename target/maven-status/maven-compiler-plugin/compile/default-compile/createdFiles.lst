@@ -1,0 +1,7 @@
+br\com\isaccanedo\springboot\controller\UserController.class
+br\com\isaccanedo\springboot\repository\UserRepository.class
+br\com\isaccanedo\springboot\entity\User.class
+br\com\isaccanedo\springboot\exception\GlobalExceptionHandler.class
+br\com\isaccanedo\springboot\exception\ErrorDetails.class
+br\com\isaccanedo\springboot\exception\ResourceNotFoundException.class
+br\com\isaccanedo\springboot\SpringbootCrudRestfulWebservicesApplication.class
